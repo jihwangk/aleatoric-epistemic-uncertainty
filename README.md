@@ -9,6 +9,7 @@ Git clone or download the uncertainty.ipynb file and upload it to your Google Dr
 ## References
 
 [1] ["What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision". NIPS 2017](https://arxiv.org/abs/1703.04977)
+
 [2] [PyramidNet](https://github.com/dyhan0920/PyramidNet-PyTorch)
 
 
